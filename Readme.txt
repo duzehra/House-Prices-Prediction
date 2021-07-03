@@ -1,0 +1,1 @@
+Random Forest Regresyon ile ev fiyat tahmin modeli.
