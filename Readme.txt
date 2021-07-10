@@ -1,1 +1,1 @@
-Random Forest Regresyon ile ev fiyat tahmin modeli.
+XGBoost Regressor ile ev fiyat tahmin modeli.
