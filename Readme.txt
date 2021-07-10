@@ -1,0 +1,1 @@
+XGBoost Regressor ile ev fiyat tahmin modeli.
